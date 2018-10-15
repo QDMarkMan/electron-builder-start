@@ -15,7 +15,7 @@
     "productName": "quick-exe",
     "appId": "org.simulatedgreg.quick-exe",
     "directories": {
-      "output": "build"
+      "output": "dist"
     },
     "files": [
       "dist/electron/**/*",
