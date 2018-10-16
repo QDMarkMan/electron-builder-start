@@ -12,8 +12,8 @@
     "source-map-support": "^0.5.9"
   },
   "build": {
-    "productName": "quick-exe",
-    "appId": "org.simulatedgreg.quick-exe",
+    "productName": "electron-builder-start",
+    "appId": "org.simulatedgreg.electron-builder-start",
     "directories": {
       "output": "dist"
     },
@@ -31,7 +31,7 @@
       "installerHeaderIcon": "build/icons/icon.ico",
       "createDesktopShortcut": true,
       "createStartMenuShortcut": true,
-      "shortcutName": "打包demo",
+      "shortcutName": "electron-builder-start",
       "include": "build/script/installer.nsh"
     },
     "dmg": {
