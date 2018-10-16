@@ -10,7 +10,7 @@ yarn dev
 # compile source code and create webpack output
 yarn compile
 
-# `yarn compile` & create build with electron-builder
+# `yarn compile` & create build ia32 with electron-builder
 yarn build
 
 # `yarn compile` & create unpacked build with electron-builder
